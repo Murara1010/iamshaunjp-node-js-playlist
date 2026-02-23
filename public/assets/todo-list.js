@@ -1,3 +1,4 @@
+console.log('your crap website is now awersome');
 $(document).ready(function(){
 
   $('form').on('submit', function(){
